@@ -1,0 +1,14 @@
+.esquerdo {
+    flex:1;
+    background-color: #fff;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    color: #ccc;
+}
+.link{
+    text-decoration: none;
+    color: rgb(73, 73, 223);
+    padding-top: 20px;
+}
